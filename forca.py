@@ -1,2 +1,5 @@
-ioaaaqa
-*args, **kwargs
+
+from tkinter.filedialog import asksaveasfile
+
+
+asksaveasfile
