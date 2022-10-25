@@ -61,4 +61,4 @@ elif computador == 2:       #o computador escolheu tesoura
     elif jogador == 2:      #o jogador escolheu Tesoura
         print('\033[1;30mTemos um empate !\033[m')
         print('\033[1;30mEu escolhi Tesoura e você escolheu Tesoura')
-        print('oi leo')
+        print('oi leo'a )as
